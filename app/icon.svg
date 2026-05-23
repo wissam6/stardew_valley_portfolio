@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges" image-rendering="pixelated">
+  <!-- Sky -->
+  <rect width="32" height="32" fill="#7cb8d4"/>
+  <!-- Ground -->
+  <rect x="0" y="24" width="32" height="8" fill="#4a8a4a"/>
+  <!-- Hat crown -->
+  <rect x="10" y="1" width="12" height="4" fill="#5a3a1a"/>
+  <!-- Hat brim -->
+  <rect x="6"  y="5" width="20" height="2" fill="#5a3a1a"/>
+  <!-- Hat band -->
+  <rect x="9"  y="6" width="14" height="1" fill="#3a2010"/>
+  <!-- Face -->
+  <rect x="11" y="7" width="10" height="6" fill="#f4c896"/>
+  <!-- Eyes -->
+  <rect x="13" y="9"  width="2" height="2" fill="#1a0a00"/>
+  <rect x="18" y="9"  width="2" height="2" fill="#1a0a00"/>
+  <!-- Shirt -->
+  <rect x="9"  y="13" width="14" height="6" fill="#3a6ea5"/>
+  <rect x="11" y="14" width="10" height="4" fill="#4a8ed5"/>
+  <!-- Arms -->
+  <rect x="6"  y="14" width="3" height="4" fill="#f4c896"/>
+  <rect x="23" y="14" width="3" height="4" fill="#f4c896"/>
+  <!-- Pants -->
+  <rect x="9"  y="19" width="14" height="5" fill="#2a4a7a"/>
+  <!-- Boots -->
+  <rect x="9"  y="24" width="5" height="4" fill="#3a2010"/>
+  <rect x="18" y="24" width="5" height="4" fill="#3a2010"/>
+</svg>
